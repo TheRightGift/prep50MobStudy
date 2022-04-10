@@ -1,6 +1,6 @@
 {
-  "name": "My Ionic App",
-  "short_name": "My Ionic App",
+  "name": "PRPE50SC",
+  "short_name": "The JAMB Preparatory App for Study Centers",
   "start_url": "index.html",
   "display": "standalone",
   "icons": [{
